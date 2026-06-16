@@ -17,6 +17,10 @@
     margin: 0 auto;
   }  
 
+#experience .card {
+    grid-column: 1 / -1;
+}
+
   /* Estilo base de la tarjeta */
   .card {
     background: #ffffff;
